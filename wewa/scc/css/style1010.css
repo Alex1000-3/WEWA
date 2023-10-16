@@ -1,0 +1,1027 @@
+
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+/*--------------------*/
+body{
+
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+.wawe {
+max-width: 1200px;
+}
+.block{
+   background: url("../img/Rectangle 75.png") center no-repeat;
+width: 1900px;
+height: 1000px;
+}
+.block1 {
+
+}
+.block1__1{
+}
+
+
+.logtip1 {
+   width: 50px;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+position: relative;
+left: 82px;
+top: 35px;
+color: #FFFFFF;
+}
+.logtip2 {
+  
+   width: 50px;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 36px;
+   line-height: 42px;
+   position: relative;
+   left: 63px;
+   top: 10px;
+   color: #FFFFFF;
+}
+.block1__line2 {
+ width: 937px;
+  position: relative;
+  left:505px ;
+   top: 12px;
+  
+
+}
+
+
+.menu__owen {
+
+
+} 
+
+.menu a:hover{
+   color:#01353E ;
+   border-bottom: 1px solid  #00B2A0;
+transition: 0.2s;
+   padding: 0px 0px 5px 0px;
+}
+.menu a{
+   color: #FFFFFF;
+   margin: 0 70px 0 0;
+   
+   font-family: 'Roboto Condensed';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 28px;
+    
+
+}
+.block1__text {
+   width: 650px;
+   
+   position: relative;
+   top: 241px;
+   left:620px;
+  
+}
+.textmax {
+   width: 654px;
+height: 235px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 200px;
+line-height: 235px;
+
+letter-spacing: 0.6px;
+
+color: #0D302C;
+}
+.textmin {
+   /* Школа серфинга на канарских Островах */
+
+
+
+
+
+
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+
+letter-spacing: 0.6px;
+
+text-align: center;
+
+}
+
+.block2 {
+
+}
+.textmax2 {
+width: 900px;
+   position: relative;
+   top: 189px;
+   left: 500px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 48px;
+   line-height: 56px;
+   display: flex;
+   align-items: flex-end;
+   letter-spacing: 0.6px;
+   
+   color: #01353E;
+}
+.list {
+   
+ 
+   font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+
+width: 480px;
+height: 87px;
+
+
+color: #242121;
+}
+.list__p1 {
+   position: relative;
+   top:345px ;
+   left: 361px ;
+  
+   display:flex;
+flex-direction:column;
+height: 400px;
+justify-content: space-between;
+
+}
+.list__p2 {
+   position: relative;
+   top: -50px;
+   left: 961px ;
+  
+   display:flex;
+   flex-direction:column;
+   height: 400px;
+   justify-content: space-between;
+   
+   
+}
+
+
+.block3 {
+  
+   position: relative;
+   top: 800px;
+height: 954px;
+background-color: #F8F8F8;
+margin: 0 0 -200px 0;
+width: 1900px;
+}
+.list2 {
+   width: 608px;
+height: 56px;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 56px;
+position: relative;
+top: 200px;
+left: 653px;
+
+color: #01353E;
+}
+.shool {
+   position: relative;
+   top: 426px;
+   display: flex;
+   justify-content:space-evenly;
+   
+}
+.sun {
+   
+}
+.ocean{
+   width: 155px;
+   height: 43px;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 28px;
+   color: #242121;
+   text-align: right;
+   position: relative;
+left: 90px;
+}
+.habitation {
+position: relative;
+left: 60px;
+width: 235px;
+height: 65px;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+color: #242121;
+text-align: right;
+
+}
+
+.our {
+   width: 450px;
+height: 68px;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 18px;
+color: #242121;
+}
+
+.percent {
+   position: relative;
+   top: 570px;
+   
+}
+.arrived {
+   position: relative;
+   left: 130px;
+   width: 400px;
+ 
+}
+.ride {
+   
+}
+
+.two p{
+   display: inline-block;
+   margin: 0 0 0 10px;
+   font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 18px;
+}
+.two {
+
+}
+.ho {
+   font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 18px;
+}
+.huge {
+  width: 700px;
+   position: relative;
+   left: 1200px;
+   bottom: 133px;
+
+  
+}
+.metodichkas {
+   font-style: normal;
+   font-weight: 300;
+   font-size: 14px;
+   line-height: 18px;
+   width: 600px;
+height: 53px;
+margin: 0 0 30px 0;
+}
+.teacher {
+   font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 18px;
+width: 600px;
+height: 73px;
+
+}
+.block4 {
+   position: relative;
+   top: 1000px;
+height: 950px;
+width: 1900px;
+
+background: url('../img/Rectangle\ 88.png') top right no-repeat;
+
+
+}
+.vertexes {
+position: relative;
+left:260px ;
+width: 0;
+height: 0;
+
+}
+.conquer {
+   position: relative;
+   top: 200px;
+
+   width: 610px;
+
+height: 56px;
+   font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 48px;
+   line-height: 56px;
+   color: #01353E;
+
+}
+.europe p{
+   margin: 0 0 30px 0;
+}
+.europe {
+   width: 507px;
+   position: relative;
+   top: 312px;
+   
+   font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 18px;
+}
+
+.block5 {
+height: 1262px;
+position: relative;
+top: 1000px;
+
+
+}
+.gallery {
+   width: 277px;
+height: 56px;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 48px;
+   line-height: 56px;
+   color: #01353E;
+   position: relative;
+   top: 100px;
+   left: 852px;
+
+}
+.gallery img{
+   position: relative;
+   top: 20px;
+}
+.block5__tourists {
+   font-style: normal;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 18px;
+   width: 500px;
+   
+position: relative;
+top: 269px;
+left: 360px;
+
+
+}
+.block5__tourists a{
+   margin: 0 20px 0 0 ;
+   color: #242121;
+}
+.block5__tourists a:hover{
+   color: #00B2A0;
+}
+
+.pictures {
+height: 400px;
+width: 1900px;
+
+position: relative;
+top: 324px;
+}
+.swimsuit {
+ 
+   position: relative;
+   left:300px ;
+   width: 700px;
+}
+.kid {
+  
+   position: relative;
+   left: 1000px;
+  bottom: 563px;
+   height: 500px;
+   width: 700px;
+
+}
+.still {
+   position: relative;
+top: 615px;
+   left: 776px ;
+   box-sizing: border-box;
+
+  
+   width: 350px;
+   height: 70px;
+background: #FFFFFF;
+   border: 1px solid #C4C4C4;
+   
+
+
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 18px;
+/* or 75% */
+
+
+
+color: #242121;
+}
+.still:hover{
+   color: #00B2A0;
+   background-color: #242121;
+   transition: 0.5s;
+}
+.block6 {
+
+   position: relative;
+   top: 1000px;
+   width: 1900px;
+   height: 200px;
+  
+   
+   background: #F8F8F8;
+}
+.champ {
+
+width: 700px;
+position: relative;
+top: 80px;
+left: 672px;
+}
+.nakh {
+   
+width: 675px;
+height: 39px;
+
+
+
+font-style: italic;
+font-weight: 400;
+font-size: 36px;
+line-height: 40px;
+
+
+color: #242121;
+}
+.young {
+   width: 313px;
+height: 18px;
+
+
+
+font-style: italic;
+font-weight: 300;
+font-size: 14px;
+line-height: 18px;
+
+
+margin:  5px 0   0 500px;
+
+color: #242121;
+
+}
+
+.block7 {
+  position: relative;
+   width: 1900px;
+   height: 1003px;
+   top: 1108px;
+   margin: -100px 0 0 0 ;
+
+   background: #FFFFFF;
+   background:url(../img/Polygon\ 1.png)center no-repeat, url(../img/Rectangle\ 100.png) center no-repeat;
+}
+
+.block8 {
+   position: absolute;
+width: 1900px;
+height: 296px;
+
+top: 6320px
+
+}
+.five {
+   position: relative;
+   top: 0;
+   left: 600px;
+   width: 700px;
+    
+   display:flex;
+justify-content:space-evenly;
+
+}
+.dox {
+  margin: 0 100px 0 0;
+ 
+}
+.dd {
+ 
+   font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 75px;
+width: 120px;
+height: 75px;
+text-align: center;
+}
+.tam {
+   
+   font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 18px;
+height: 18px;
+width: 120px;
+text-align: center;
+}
+.block9 {
+   width: 1900px;
+height: 1285px;
+position: relative;
+top: 1400px;
+
+background:url(../img/затемнение.png)0 285px no-repeat, url(../img/Rectangle\ 75.png) 0 285px/100% 800px no-repeat;
+
+}
+.blog  p{
+   font-style: normal;
+ width: 226px;
+
+   font-size: 48px;
+   line-height: 56px;
+}
+.blog img{
+   position: relative;
+   top: 15px;
+   right: 10px;
+}
+.blog {
+   position: relative;
+   left: 894px;
+   top: 0;
+   
+   width: 600px;
+}
+.tour {
+  
+}
+.necessary {
+   position: relative;
+   top: 550px;
+   left: 760px;
+  
+   width: 800px;
+}
+.cc {
+   font-style: normal;
+
+font-size: 48px;
+line-height: 56px;
+ 
+}
+.tt {
+   font-style: normal;
+
+font-size: 14px;
+line-height: 18px;
+
+}
+.circle {
+ border-radius: 100%;
+
+   position: relative;
+   top: 800px ;
+   left: 850px;
+   background-color: #FFFFFF;
+  width: 15px;
+  height: 15px;
+  margin: 0 15px 0  0 ;
+
+}
+.circl {
+   display: flex;
+}
+
+.circl :hover{
+   background: #00B2A0;
+}
+
+.block10 {
+
+   position: relative;
+   top: 1400px;
+   width: 1900px;
+   height: 987px;
+
+}
+.block10__komanda {
+   font-style: normal;
+width: 600px;
+font-size: 48px;
+line-height: 56px;
+position: relative;
+top: 0;
+left: 755px;
+}
+.block10__komanda img{
+   position: relative;
+   top: 15px;
+   right: 10px;
+}
+.contentn {
+
+   display: flex;
+justify-content: center;
+position: relative;
+top: 271px;
+left: 0;
+}
+.information {   
+   margin: 100px;
+}
+.information h3{
+   font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 18px;
+color: #242121;
+}
+
+
+.information p{
+   font-style: normal;
+   font-weight: 400px;
+   font-size: 14px;
+   line-height: 18px;
+   color: #242121;
+}
+.information  :hover img {
+   box-shadow: 1px 1px 10px  #00B2A0 ;
+}
+.block11 {
+   position: relative;
+top: 1400px;
+width: 1900px;
+height: 1245px;
+
+background-color: #F8F8F8;
+}
+
+.package {
+   position: relative;
+   top: 200px;
+left: 740px;
+   width: 414px;
+height: 56px;
+font-style: normal;
+font-weight: 600px;
+font-size: 48px;
+line-height: 56px;
+
+}
+
+.services {
+ 
+}
+.container {
+   width: 1500px;
+   position: relative;
+   top: 468px;
+   left: 220px;
+   display: flex;
+   justify-content: space-between;
+
+
+}
+
+.card {
+   position: relative;
+   cursor: pointer;
+
+}
+.face {
+   width: 400px;
+   height: 300px;
+   transition: 0.5s;
+
+}
+.face1 {
+   position: relative;
+   background: #00B2A0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   z-index: 1;
+   transform: translateY(200px);
+
+   border: none;
+}
+.container .card:hover .face.face1{
+   background: #0D302C;
+   transform: translateY(0);
+
+}
+.content h3{
+   margin: 10px 0 0;
+   padding: 0;
+   color: #fff;
+   text-align: center;
+   font-size:30px;
+   font-style: italic;
+
+}
+.container .card .face.face1 .content img{
+   max-width: 200px;
+
+display: inline-block;
+text-align: center;
+}
+.container .card:hover .face.face1 .content{
+   opacity: 1;
+
+}
+
+.content {
+
+}
+.face2 {
+   position: relative;
+   background: #fff;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 20px;
+   box-sizing: border-box;
+   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+   transform: translateY(-100px);
+
+}
+.container .card:hover .face.face2{
+   transform: translateY(0);
+
+}
+.content p{
+   padding: 10px 0 0 0;
+}
+.content a{
+   font-size: 20px;
+   margin: 15px 0 0;
+   display:  inline-block;
+   text-decoration: none;
+   font-weight: 900;
+   color: #333;
+   padding: 5px;
+
+margin: 10px 0 0 100px;
+}
+.content a:hover{
+   background: #333;
+   color: #fff;
+
+}
+
+.block12{
+   position: relative;
+   top: 1400px;
+   width: 1900px;
+height: 1040px;
+   background: url("../img/Screenshot_4\ 1.png") center no-repeat;
+  
+}
+.block12 img{
+   position: relative;
+   top: 300px;
+   left: 950px;
+}
+
+.block13 {
+   position: relative;
+   top: 1400px;
+   width: 1900px;
+   height: 1182px;
+
+}
+.fff {
+
+}
+
+.statement {
+   font-style: normal;
+font-weight: 600px;
+font-size: 48px;
+line-height: 56px;
+position: relative;
+top: 0;
+left: 728px;
+width: 510px;
+}
+.statement img{
+   position: relative;
+   top: 15px;
+}
+.blockai{
+   display: flex;
+position: relative;
+top: 300px;
+left: 500px;
+width: 1000px;
+justify-content: center;
+
+}
+.application {
+height: 460px;
+width: 600px;
+
+display: flex;
+flex-direction: column;
+}
+.application p{
+   font-style: normal;
+font-weight: 400px;
+font-size: 18px;
+line-height: 18px;
+color: #00B2A0;
+margin: 60px 0 0 0 ;
+}
+.application input{
+ border-bottom: 2px solid  #DADADA; 
+   font-style: normal;
+font-weight: 400px;
+font-size: 18px;
+line-height: 18px;
+}
+
+.application button{
+   position: relative;
+   left: 0;
+top: 50px;
+   width: 350px;
+height: 70px;
+font-style: normal;
+font-weight: 400px;
+font-size: 24px;
+line-height: 18px;
+
+}
+.application button:hover{
+   color: #00B2A0;
+   background: #070707; 
+   box-shadow: 10px 10px 10px #000;
+   transition: 0.5s;
+}
+
+.nameee {
+
+}
+.telephone {
+}
+.leave{
+   width: 360px;
+height: 54px;
+
+}
+.inf {   margin: 0  0  0 100px;
+   background: #F8F8F8;
+   width: 700px;
+height: 460px;
+
+}
+.inf p{
+   font-style: normal;
+   font-weight: 400px;
+   font-size: 24px;
+   line-height: 30px;
+margin: 40px 0 70px 52px ;
+
+}
+.waht {
+   width: 418px;
+height: 60px;
+
+}
+.whatsapp {
+   width: 373px;
+height: 60px;
+
+}
+.avenida {
+
+   width: 327px;
+height: 90px;
+}
+.instahram {
+
+   width: 450px;
+   font-style: normal;
+font-weight: 400px;
+font-size: 24px;
+line-height: 18px;
+position: relative;
+top: 500px;
+left: 700px;
+z-index: 2;
+}
+.instahram  a{
+   margin: 0  0 0 10px;
+   color: #242121;
+}
+.instahram  :hover{
+   color: #00B2A0;
+}
+.inst {
+}
+.fac {
+}
+.yuo {
+}
+.block14 {
+   background: #00B2A0;
+   width: 1900px;
+height: 200px;
+position: relative;
+top: 640px;
+display: flex;
+justify-content: center;
+}
+.ww{
+
+width: 90px;
+height: 90px;
+position: relative;
+top: 100px ;
+}
+.ww  p{display: inline;
+text-align: center;
+   width: 50px;
+   font-style: normal;
+   font-weight: 700px;
+   font-size: 36px;
+   line-height: 42px;
+
+   color: #FFFFFF;
+}
+.logt_1 {
+
+}
+.logt_2 {
+   position: relative;
+   bottom: 20px;
+right: 20px;
+}
